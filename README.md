@@ -17,7 +17,7 @@ this is a simple QR code component that displays a scannable code and a short te
 ### Links
 
 - Solution URL: [QR code component](https://github.com/shubhamqx/qr-code-card-frontend-mentor)
-- Live Site URL: [QR code component](https://your-live-site-url.com)
+- Live Site URL: [QR code component](https://shubhamqx.github.io/qr-code-card-frontend-mentor/)
 
 ### Built with
 
